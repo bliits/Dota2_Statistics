@@ -1,5 +1,5 @@
 # Dota2_Statistics
-Analized Dota 2 matches data, includes importnant in-game parameters (average total gold \ experience \ damage \ healing).
+Analyzed Dota 2 matches data, includes important in-game parameters (average total gold \ experience \ damage \ healing). 
 
 • Extracted and preprocessed data from URL sources using Python utilities.
 
