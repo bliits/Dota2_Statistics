@@ -3,9 +3,9 @@ Analyzed Dota 2 matches data, includes important in-game parameters (average tot
 
 • Extracted and preprocessed data from URL sources using Python utilities.
 
-• Combined and analized data to obtain an average scale using SQL.
+• Combined and analyzed data to obtain an average scale using SQL.
 
-• Vizualized data in Tableau (Public) to making a general conclusion. 
+• Visualized data in Tableau (Public) to making a general conclusion.
 
 To view these Tableau Dashboards in Tableau Public, click on the link https://public.tableau.com/app/profile/dmytro.shevchuk/viz/Dota2_project/Dashboard1#1.
 
